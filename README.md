@@ -23,9 +23,9 @@
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=biaabgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=biaabgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaabgs&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=biaabgs&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
