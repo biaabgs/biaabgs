@@ -23,9 +23,11 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=biaabgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=biaabgs&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-metrics.vercel.app/biaabgs?template=classic&base=header,activity,community,repositories&base.indepth=true&config.timezone=America/Sao_Paulo" alt="Estatísticas de biaabgs" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaabgs&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
