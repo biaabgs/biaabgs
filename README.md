@@ -23,11 +23,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-metrics.vercel.app/biaabgs?template=classic&base=header,activity,community,repositories&base.indepth=true&config.timezone=America/Sao_Paulo" alt="Estatísticas de biaabgs" />
+  <img src="https://metrics.lecoq.io/biaabgs?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=true&config.timezone=America%2FSao_Paulo" alt="Estatísticas de biaabgs" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaabgs&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biaabgs&show_icons=true&theme=transparent&hide_border=true&title_color=fe428e&icon_color=fe428e&text_color=fff&bg_color=0d1117" alt="Stats de biaabgs" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
