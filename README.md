@@ -1,6 +1,6 @@
 # Olá!! Eu sou a Beatriz 😊
 
-### Atualmente estou estudando sobre desenvolvimento 💻
+### Atualmente estou estudando sobre desenvolvimento de sistemas 💻
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaabgs&layout=compact&theme=dark" alt="Linguagens mais usadas" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
