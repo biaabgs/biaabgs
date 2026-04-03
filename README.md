@@ -71,8 +71,14 @@
       src= "https://github.com/user-attachments/assets/537b04dd-64a5-4f81-a38c-3e91e5679d1a" 
     />
 <br /> <br/>
+
 <div align="center" style="margin-top: 10px;">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=biaabgs&theme=tokyonight" />
 </div>
 
+<div align="center" style="margin-top: 10px;">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=biaabgs&theme=tokyonight" />
+</div>
+
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biaabgs&theme=dark)
 ---
