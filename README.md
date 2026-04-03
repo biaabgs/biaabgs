@@ -76,9 +76,5 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=biaabgs&theme=tokyonight" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=biaabgs&theme=tokyonight" />
-</div>
-
 ![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biaabgs&theme=dark)
 ---
