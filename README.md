@@ -78,6 +78,6 @@
 
 <div align="center" style="margin-top: 10px;">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanafrade&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biaabgs&layout=compact&langs_count=8&card_width=320&theme=moltack" />
 </a>
 </div>
