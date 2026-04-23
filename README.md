@@ -76,5 +76,8 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=biaabgs&theme=tokyonight" />
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biaabgs&theme=tokyonight" />
----
+<div align="center" style="margin-top: 10px;">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanafrade&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+</a>
+</div>
