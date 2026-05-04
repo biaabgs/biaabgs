@@ -45,14 +45,6 @@
       title="Python"
       style="padding-right: 8px;" 
       src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-  <img 
-      width="40"
-      height="40"
-      alt="Git"
-      align="left"
-      title="Git"
-      style="padding-right: 8px;" 
-      src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img
       width="40"
       height="40"
